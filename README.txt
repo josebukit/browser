@@ -4,6 +4,6 @@ the script error spam just click YES
 
 2. You may search just with "GO" button and you can't press enter to go to website that you want it
 
-If you want to say feedback just comment in this website: https://www.github.com/josebukit
+If you want to say feedback just comment in https://github.com/josebukit/browser
 
 Done enjoy :)
